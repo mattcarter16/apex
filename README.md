@@ -1,2 +1,1 @@
-# apex
-This is the new Angular / Typescript App for QA
+adj - full of promise; good, favorable
