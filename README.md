@@ -1,0 +1,1 @@
+<span style="font-decoration:italic">adj</span>  - full of promise; good, favorable
